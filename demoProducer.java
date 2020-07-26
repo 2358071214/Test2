@@ -6,7 +6,7 @@ package com.job;
  * 流水线生产指定台电脑后休眠
  * 商城销售网库存后启动流水线
  * 统计商城销售数量
- * @author 叶景强
+ * @author 123
  * @create
  */
 class Sell implements Runnable{
